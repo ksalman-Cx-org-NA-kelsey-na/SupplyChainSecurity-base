@@ -16,3 +16,4 @@ colourama
 discordsafe
 awscli
 aiohttp-session
+lr-utils-lib
